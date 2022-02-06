@@ -1,5 +1,5 @@
 import java.util.*;
-class Solution
+class SWEA_1209
 {
      static final int SIZE = 100;
 	public static void main(String args[]) throws Exception

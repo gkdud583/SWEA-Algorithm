@@ -9,7 +9,7 @@ class Location{
         this.heigh = height;
     }
 }
-class Solution
+public class SWEA_1208
 {
 	public static void main(String args[]) throws Exception
 	{
